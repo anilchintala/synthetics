@@ -23,7 +23,7 @@ cd synthetics-scripts
 npm install
 ```
 
-### Install Chrome Driver (via installer for Mac and/or PC)
+### Install Chrome Driver (via installer for Mac and/or PC place it in C:\Windows)
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ### Run test.js on your machine like this:

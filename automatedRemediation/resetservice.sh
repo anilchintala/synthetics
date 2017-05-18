@@ -1,1 +1,0 @@
-echo simulated service restart
