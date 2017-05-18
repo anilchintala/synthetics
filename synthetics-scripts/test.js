@@ -1,0 +1,6 @@
+/** WEBDRIVER SETUP - remove this section to run in New Relic Synthetics **/
+var sim = require('./lib/simulator.js');
+var assert = sim.assert; var $driver = sim.driver; var $browser = sim.browser; var $util = sim.util;
+/** WEBDRIVER SETUP - remove this section to run in New Relic Synthetics **/
+
+$browser.get('http://newrelic.com/synthetics');
