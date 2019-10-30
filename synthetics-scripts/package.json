@@ -6,7 +6,7 @@
   "dependencies": {
     "crypto-js": "^3.1.5",
     "csv": "^1.1.0",
-    "csv-parse": "^1.1.7",
+    "csv-parse": "^4.6.5",
     "request": "^2.74.0",
     "selenium-webdriver": "^2.53.3"
   }
